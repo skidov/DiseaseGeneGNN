@@ -11,8 +11,8 @@ A házi feladat témája egy olyan gráf neurális hálózat létrehozása, ami 
 A letöltött adathalmaz az alábbi útvonalon található: [datasets/DisGeNET/raw/browser_source_summary_gda_CURATED.tsv](datasets/DisGeNET/raw/browser_source_summary_gda_CURATED.tsv)
 
 ## Futtatás
-
-
+Jelenleg csak egy kezdeti verziója készült el az adatbetöltésnek.
+A LoadDataset.py fájl betölti az adathalmazt és gráffá konvertája azt. 
 
 ## Referenciák
 [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
